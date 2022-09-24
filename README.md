@@ -1,6 +1,8 @@
 # GRE Words
 
-Words and translation from [GitHub - xunkai55/pili3000: A python command line tool helping memorizing GRE vocabulary.](https://github.com/xunkai55/pili3000). It provides function of searching words.
+This project provides function of searching words.
+
+Words and translation from [GitHub - xunkai55/pili3000: A python command line tool helping memorizing GRE vocabulary.](https://github.com/xunkai55/pili3000). 
 
 ## Dependency
 
