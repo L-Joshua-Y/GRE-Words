@@ -1,6 +1,10 @@
-# Vue Basic
+# GRE Words
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Vue.js](https://vuejs.org/) apps in minutes. Use this repo with the [Vue quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vue) to build and customize a new static site.
+Words and translation from [GitHub - xunkai55/pili3000: A python command line tool helping memorizing GRE vocabulary.](https://github.com/xunkai55/pili3000). It provides function of searching words.
+
+## Dependency
+
+[Select2](https://select2.org/) provides function of searching words
 
 ## Project setup
 

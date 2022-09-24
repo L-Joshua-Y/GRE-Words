@@ -1,5 +1,5 @@
 {
-  "name": "hello",
+  "name": "gre3000",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "jquery": "^3.6.1",
+    "select2": "^4.1.0-rc.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
